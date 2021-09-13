@@ -13,3 +13,7 @@ The dataset is found on the Data Folder
 
 ### Machine Learning Final Work Magister Inteligencia Artificial
 * Practical work on Machine Learning algorithms in Python
+
+### Q&A with Word2vec
+* Q&A System using Word2Vec trained with a Corpus from Wikipedia. After make a Query, the system search for the more related texts, then search for the best related sentences from the selected texts that matches with the Query
+
